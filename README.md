@@ -11,7 +11,7 @@ Vagrantfile: In the repo
 
 ```bash
 $ vagrant box add box-cutter/debian81-i386 # with virtualbox backend
-$ vagrant init box-cutter/debian81-i386
+$ vagrant up # Use provided Vagrantfile
 ```
 
 ## Box Setup
