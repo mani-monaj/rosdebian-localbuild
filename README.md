@@ -47,13 +47,31 @@ $ aptly publish -passphrase='*****' update jessie
 
 ### Setup a private key repository
 
-https://njh.eu/keyserver
+Ref: https://njh.eu/keyserver
 
-# Run the build script
+# Run the build
 
 1. Update `db/ros-debian-science-pkg-list-sorted.txt` if necessary in order of dependency 
 2. Make sure `aptly` is serving the local repo `aptly serve`
 3. Run `build.sh`
+
+# Setup the client i386 machine (Debian Jessie)
+
+- The host forwards http and keyserver request to the VM
+
+```bash
+$ sudo sh -c 'deb http://host:8080/ jessie main" >> /etc/apt/sources.list.d/debian-robotics.list'
+$ sudo apt-key adv --keyserver host --recv-keys <generated key fingerprint>
+```
+
+## Test
+
+```bash
+$ sudo apt-get install catkin python-catkin-pkg python-rosdepros
+$ sudo apt-get install ros-core ros-base-dev # ~300Mb
+$ sudo rosdep init
+$ rosdep update
+```
 
 # References
 
