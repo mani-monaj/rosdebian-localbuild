@@ -1,0 +1,2 @@
+prefix ros- manually
+orocos-kdl is a dependency manually injected before geometery (not in the initial list)

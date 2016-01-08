@@ -1,0 +1,43 @@
+done_link,http_link,http_link/_text,line862_value_2,line862_value_1,done_value,line862_content,done_label,done_link/_text
+https://tracker.debian.org/pkg/ros-catkin-pkg,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-catkin-pkg.git,ros-catkin-pkg.git,Done,catkin-pkg,Done,Done,Done,Done
+https://tracker.debian.org/pkg/ros-catkin,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-catkin.git,ros-catkin.git,Done,catkin,Done,Done,Done,Done
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-cmake-modules.git,ros-cmake-modules.git,Done,cmake-modules,Done,ftpmaster review,Done,
+https://tracker.debian.org/pkg/ros-message-generation,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-message-generation.git,ros-message-generation.git,Done,message-generation,Done,Done,Done,Done
+https://tracker.debian.org/pkg/ros-message-runtime,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-message-runtime.git,ros-message-runtime.git,Done,message-runtime,Done,Done,Done,Done
+https://tracker.debian.org/pkg/rosgenmsg-,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-genmsg.git,ros-genmsg.git,Done,genmsg,Done,Done,Done,Done
+https://tracker.debian.org/pkg/ros-genpy,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-genpy.git,ros-genpy.git,Done,genpy,Done,Done,Done,Done
+https://tracker.debian.org/pkg/ros-gencpp,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-gencpp.git,ros-gencpp.git,Done,gencpp,Done,Done,Done,Done
+https://tracker.debian.org/pkg/ros-genlisp,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-genlisp.git,ros-genlisp.git,Done,genlisp,Done,Done,Done,Done
+https://tracker.debian.org/pkg/ros-roscpp-core,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-roscpp-core.git,ros-roscpp-core.git,Done,roscpp-core,Done,Done,Done,Done
+https://tracker.debian.org/pkg/ros-std-msgs,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-std-msgs.git,ros-std-msgs.git,Done,std-msgs,Done,Done,Done,Done
+https://tracker.debian.org/pkg/ros-common-msgs,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-common-msgs.git,ros-common-msgs.git,Done,common-msgs,Done,Done,Done,Done
+https://tracker.debian.org/pkg/ros-ros-comm-msgs,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-ros-comm-msgs.git,ros-ros-comm-msgs.git,Done,ros-comm-msgs,Done,Done,Done,Done
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-rospack.git,ros-rospack.git,Done,rospack,Done,ftpmaster review,Done,
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-ros.git,ros-ros.git,Done,ros,Done,ftpmaster review,Done,
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-ros-comm.git,ros-ros-comm.git,Done,ros-comm,Done,ftpmaster review,Done,
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-roslisp.git,ros-roslisp.git,Done,roslisp,Done,ftpmaster review,Done,
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-actionlib.git,ros-actionlib.git,Done,actionlib,Done,ftpmaster review,Done,
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-dynamic-reconfigure.git,ros-dynamic-reconfigure.git,Done,dynamic-reconfigure,Done,ftpmaster review,Done,
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-angles.git,ros-angles.git,Done,angles,Done,ftpmaster review,Done,
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-rosconsole-bridge.git,ros-rosconsole-bridge.git,Done,rosconsole-bridge,Done,ftpmaster review,Done,
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-geometry-experimental.git,ros-geometry-experimental.git,Done,geometry-experimental,Done,Packaged,Done,
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-geometry.git,ros-geometry.git,Done,geometry,Done,Packaged,Done,
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-bond-core.git,ros-bond-core.git,Done,bond-core,,Packaged,Done,
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-class-loader.git,ros-class-loader.git,Done,class-loader,,Packaged,Done,
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-eigen-stl-containers.git,ros-eigen-stl-containers.git,,eigen-stl-containers,,Packaged,Done,
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-resource-retriever.git,ros-resource-retriever.git,,resource-retriever,,Packaged,Done,
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-random_numbers.git,ros-random_numbers.git,,random_numbers,,Packaged,Done,
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-geometric-shapes.git,ros-geometric-shapes.git,,geometric-shapes,,Packaged,Done,
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-pluginlib.git,ros-pluginlib.git,,pluginlib,,Packaged,Done,
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-image-common.git,ros-image-common.git,,image-common,,Packaged,Done,
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-interactive-markers.git,ros-interactive-markers.git,,interactive-markers,,Packaged,Done,
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-laser-geometry.git,ros-laser-geometry.git,,laser-geometry,,Packaged,Done,
+https://tracker.debian.org/pkg/ros-rospkg,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-rospkg.git,ros-rospkg.git,Done,rospkg,Done,Done,Done,Done
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-notelet-core.git,ros-notelet-core.git,Done,notelet-core,,Packaged,Done,
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-pcl-msgs.git,ros-pcl-msgs.git,,pcl-msgs,,Packaged,Done,
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-pcl-conversions.git,ros-pcl-conversions.git,,pcl-conversions,,Packaged,Done,
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-robot-model.git,ros-robot-model.git,,robot-model,,Packaged,Done,
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-navigation-msgs.git,ros-navigation-msgs.git,Done,navigation-msgs,,Packaged,Done,
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-vision-opencv.git,ros-vision-opencv.git,,vision-opencv,,Packaged,Done,
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-python-qt-binding.git,ros-python-qt-binding.git,,python-qt-binding,,Packaged,Done,
+,http://anonscm.debian.org/cgit/debian-science/packages/ros/ros-rviz.git,ros-rviz.git,,rviz,,Packaged,Done,
