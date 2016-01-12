@@ -67,7 +67,7 @@ $ sudo apt-key adv --keyserver host --recv-keys <generated key fingerprint>
 ## Test
 
 ```bash
-$ sudo apt-get install catkin python-catkin-pkg python-rosdepros
+$ sudo apt-get install catkin python-catkin-pkg python-rosdep
 $ sudo apt-get install ros-core ros-base-dev # ~300Mb
 $ sudo rosdep init
 $ rosdep update
