@@ -1,0 +1,285 @@
+- tar:
+    local-name: camera_calibration
+    uri: https://github.com/ros-gbp/image_pipeline-release/archive/release/jade/camera_calibration/1.12.15-0.tar.gz
+    version: image_pipeline-release-release-jade-camera_calibration-1.12.15-0
+- tar:
+    local-name: convex_decomposition
+    uri: https://github.com/ros-gbp/convex_decomposition-release/archive/release/jade/convex_decomposition/0.1.10-0.tar.gz
+    version: convex_decomposition-release-release-jade-convex_decomposition-0.1.10-0
+- tar:
+    local-name: depth_image_proc
+    uri: https://github.com/ros-gbp/image_pipeline-release/archive/release/jade/depth_image_proc/1.12.15-0.tar.gz
+    version: image_pipeline-release-release-jade-depth_image_proc-1.12.15-0
+- tar:
+    local-name: executive_smach
+    uri: https://github.com/ros-gbp/executive_smach-release/archive/release/jade/executive_smach/2.0.0-0.tar.gz
+    version: executive_smach-release-release-jade-executive_smach-2.0.0-0
+- tar:
+    local-name: geneus
+    uri: https://github.com/tork-a/geneus-release/archive/release/jade/geneus/2.2.4-0.tar.gz
+    version: geneus-release-release-jade-geneus-2.2.4-0
+- tar:
+    local-name: image_pipeline
+    uri: https://github.com/ros-gbp/image_pipeline-release/archive/release/jade/image_pipeline/1.12.15-0.tar.gz
+    version: image_pipeline-release-release-jade-image_pipeline-1.12.15-0
+- tar:
+    local-name: image_proc
+    uri: https://github.com/ros-gbp/image_pipeline-release/archive/release/jade/image_proc/1.12.15-0.tar.gz
+    version: image_pipeline-release-release-jade-image_proc-1.12.15-0
+- tar:
+    local-name: image_rotate
+    uri: https://github.com/ros-gbp/image_pipeline-release/archive/release/jade/image_rotate/1.12.15-0.tar.gz
+    version: image_pipeline-release-release-jade-image_rotate-1.12.15-0
+- tar:
+    local-name: image_view
+    uri: https://github.com/ros-gbp/image_pipeline-release/archive/release/jade/image_view/1.12.15-0.tar.gz
+    version: image_pipeline-release-release-jade-image_view-1.12.15-0
+- tar:
+    local-name: ivcon
+    uri: https://github.com/ros-gbp/ivcon-release/archive/release/jade/ivcon/0.1.5-0.tar.gz
+    version: ivcon-release-release-jade-ivcon-0.1.5-0
+- tar:
+    local-name: laser_assembler
+    uri: https://github.com/ros-gbp/laser_assembler-release/archive/release/jade/laser_assembler/1.7.3-0.tar.gz
+    version: laser_assembler-release-release-jade-laser_assembler-1.7.3-0
+- tar:
+    local-name: laser_filters
+    uri: https://github.com/ros-gbp/laser_filters-release/archive/release/jade/laser_filters/1.8.0-1.tar.gz
+    version: laser_filters-release-release-jade-laser_filters-1.8.0-1
+- tar:
+    local-name: laser_pipeline
+    uri: https://github.com/ros-gbp/laser_pipeline-release/archive/release/jade/laser_pipeline/1.6.1-0.tar.gz
+    version: laser_pipeline-release-release-jade-laser_pipeline-1.6.1-0
+- tar:
+    local-name: media_export
+    uri: https://github.com/ros-gbp/media_export-release/archive/release/jade/media_export/0.2.0-0.tar.gz
+    version: media_export-release-release-jade-media_export-0.2.0-0
+- tar:
+    local-name: pcl_ros
+    uri: https://github.com/ros-gbp/perception_pcl-release/archive/release/jade/pcl_ros/1.3.0-0.tar.gz
+    version: perception_pcl-release-release-jade-pcl_ros-1.3.0-0
+- tar:
+    local-name: perception_pcl
+    uri: https://github.com/ros-gbp/perception_pcl-release/archive/release/jade/perception_pcl/1.3.0-0.tar.gz
+    version: perception_pcl-release-release-jade-perception_pcl-1.3.0-0
+- tar:
+    local-name: pr2_common
+    uri: https://github.com/pr2-gbp/pr2_common-release/archive/release/jade/pr2_common/1.11.9-0.tar.gz
+    version: pr2_common-release-release-jade-pr2_common-1.11.9-0
+- tar:
+    local-name: pr2_dashboard_aggregator
+    uri: https://github.com/pr2-gbp/pr2_common-release/archive/release/jade/pr2_dashboard_aggregator/1.11.9-0.tar.gz
+    version: pr2_common-release-release-jade-pr2_dashboard_aggregator-1.11.9-0
+- tar:
+    local-name: pr2_description
+    uri: https://github.com/pr2-gbp/pr2_common-release/archive/release/jade/pr2_description/1.11.9-0.tar.gz
+    version: pr2_common-release-release-jade-pr2_description-1.11.9-0
+- tar:
+    local-name: pr2_machine
+    uri: https://github.com/pr2-gbp/pr2_common-release/archive/release/jade/pr2_machine/1.11.9-0.tar.gz
+    version: pr2_common-release-release-jade-pr2_machine-1.11.9-0
+- tar:
+    local-name: pr2_msgs
+    uri: https://github.com/pr2-gbp/pr2_common-release/archive/release/jade/pr2_msgs/1.11.9-0.tar.gz
+    version: pr2_common-release-release-jade-pr2_msgs-1.11.9-0
+- tar:
+    local-name: python_qt_binding
+    uri: https://github.com/ros-gbp/python_qt_binding-release/archive/release/jade/python_qt_binding/0.2.17-0.tar.gz
+    version: python_qt_binding-release-release-jade-python_qt_binding-0.2.17-0
+- tar:
+    local-name: qt_dotgraph
+    uri: https://github.com/ros-gbp/qt_gui_core-release/archive/release/jade/qt_dotgraph/0.2.29-0.tar.gz
+    version: qt_gui_core-release-release-jade-qt_dotgraph-0.2.29-0
+- tar:
+    local-name: qt_gui
+    uri: https://github.com/ros-gbp/qt_gui_core-release/archive/release/jade/qt_gui/0.2.29-0.tar.gz
+    version: qt_gui_core-release-release-jade-qt_gui-0.2.29-0
+- tar:
+    local-name: qt_gui_app
+    uri: https://github.com/ros-gbp/qt_gui_core-release/archive/release/jade/qt_gui_app/0.2.29-0.tar.gz
+    version: qt_gui_core-release-release-jade-qt_gui_app-0.2.29-0
+- tar:
+    local-name: qt_gui_core
+    uri: https://github.com/ros-gbp/qt_gui_core-release/archive/release/jade/qt_gui_core/0.2.29-0.tar.gz
+    version: qt_gui_core-release-release-jade-qt_gui_core-0.2.29-0
+- tar:
+    local-name: qt_gui_cpp
+    uri: https://github.com/ros-gbp/qt_gui_core-release/archive/release/jade/qt_gui_cpp/0.2.29-0.tar.gz
+    version: qt_gui_core-release-release-jade-qt_gui_cpp-0.2.29-0
+- tar:
+    local-name: qt_gui_py_common
+    uri: https://github.com/ros-gbp/qt_gui_core-release/archive/release/jade/qt_gui_py_common/0.2.29-0.tar.gz
+    version: qt_gui_core-release-release-jade-qt_gui_py_common-0.2.29-0
+- tar:
+    local-name: rosbag_migration_rule
+    uri: https://github.com/ros-gbp/rosbag_migration_rule-release/archive/release/jade/rosbag_migration_rule/1.0.0-0.tar.gz
+    version: rosbag_migration_rule-release-release-jade-rosbag_migration_rule-1.0.0-0
+- tar:
+    local-name: rqt
+    uri: https://github.com/ros-gbp/rqt-release/archive/release/jade/rqt/0.2.14-0.tar.gz
+    version: rqt-release-release-jade-rqt-0.2.14-0
+- tar:
+    local-name: rqt_action
+    uri: https://github.com/ros-gbp/rqt_common_plugins-release/archive/release/jade/rqt_action/0.3.12-0.tar.gz
+    version: rqt_common_plugins-release-release-jade-rqt_action-0.3.12-0
+- tar:
+    local-name: rqt_bag
+    uri: https://github.com/ros-gbp/rqt_common_plugins-release/archive/release/jade/rqt_bag/0.3.12-0.tar.gz
+    version: rqt_common_plugins-release-release-jade-rqt_bag-0.3.12-0
+- tar:
+    local-name: rqt_bag_plugins
+    uri: https://github.com/ros-gbp/rqt_common_plugins-release/archive/release/jade/rqt_bag_plugins/0.3.12-0.tar.gz
+    version: rqt_common_plugins-release-release-jade-rqt_bag_plugins-0.3.12-0
+- tar:
+    local-name: rqt_common_plugins
+    uri: https://github.com/ros-gbp/rqt_common_plugins-release/archive/release/jade/rqt_common_plugins/0.3.12-0.tar.gz
+    version: rqt_common_plugins-release-release-jade-rqt_common_plugins-0.3.12-0
+- tar:
+    local-name: rqt_console
+    uri: https://github.com/ros-gbp/rqt_common_plugins-release/archive/release/jade/rqt_console/0.3.12-0.tar.gz
+    version: rqt_common_plugins-release-release-jade-rqt_console-0.3.12-0
+- tar:
+    local-name: rqt_dep
+    uri: https://github.com/ros-gbp/rqt_common_plugins-release/archive/release/jade/rqt_dep/0.3.12-0.tar.gz
+    version: rqt_common_plugins-release-release-jade-rqt_dep-0.3.12-0
+- tar:
+    local-name: rqt_graph
+    uri: https://github.com/ros-gbp/rqt_common_plugins-release/archive/release/jade/rqt_graph/0.3.12-0.tar.gz
+    version: rqt_common_plugins-release-release-jade-rqt_graph-0.3.12-0
+- tar:
+    local-name: rqt_gui
+    uri: https://github.com/ros-gbp/rqt-release/archive/release/jade/rqt_gui/0.2.14-0.tar.gz
+    version: rqt-release-release-jade-rqt_gui-0.2.14-0
+- tar:
+    local-name: rqt_gui_cpp
+    uri: https://github.com/ros-gbp/rqt-release/archive/release/jade/rqt_gui_cpp/0.2.14-0.tar.gz
+    version: rqt-release-release-jade-rqt_gui_cpp-0.2.14-0
+- tar:
+    local-name: rqt_gui_py
+    uri: https://github.com/ros-gbp/rqt-release/archive/release/jade/rqt_gui_py/0.2.14-0.tar.gz
+    version: rqt-release-release-jade-rqt_gui_py-0.2.14-0
+- tar:
+    local-name: rqt_image_view
+    uri: https://github.com/ros-gbp/rqt_common_plugins-release/archive/release/jade/rqt_image_view/0.3.12-0.tar.gz
+    version: rqt_common_plugins-release-release-jade-rqt_image_view-0.3.12-0
+- tar:
+    local-name: rqt_launch
+    uri: https://github.com/ros-gbp/rqt_common_plugins-release/archive/release/jade/rqt_launch/0.3.12-0.tar.gz
+    version: rqt_common_plugins-release-release-jade-rqt_launch-0.3.12-0
+- tar:
+    local-name: rqt_logger_level
+    uri: https://github.com/ros-gbp/rqt_common_plugins-release/archive/release/jade/rqt_logger_level/0.3.12-0.tar.gz
+    version: rqt_common_plugins-release-release-jade-rqt_logger_level-0.3.12-0
+- tar:
+    local-name: rqt_moveit
+    uri: https://github.com/ros-gbp/rqt_robot_plugins-release/archive/release/jade/rqt_moveit/0.4.2-0.tar.gz
+    version: rqt_robot_plugins-release-release-jade-rqt_moveit-0.4.2-0
+- tar:
+    local-name: rqt_msg
+    uri: https://github.com/ros-gbp/rqt_common_plugins-release/archive/release/jade/rqt_msg/0.3.12-0.tar.gz
+    version: rqt_common_plugins-release-release-jade-rqt_msg-0.3.12-0
+- tar:
+    local-name: rqt_nav_view
+    uri: https://github.com/ros-gbp/rqt_robot_plugins-release/archive/release/jade/rqt_nav_view/0.4.2-0.tar.gz
+    version: rqt_robot_plugins-release-release-jade-rqt_nav_view-0.4.2-0
+- tar:
+    local-name: rqt_plot
+    uri: https://github.com/ros-gbp/rqt_common_plugins-release/archive/release/jade/rqt_plot/0.3.12-0.tar.gz
+    version: rqt_common_plugins-release-release-jade-rqt_plot-0.3.12-0
+- tar:
+    local-name: rqt_pose_view
+    uri: https://github.com/ros-gbp/rqt_robot_plugins-release/archive/release/jade/rqt_pose_view/0.4.2-0.tar.gz
+    version: rqt_robot_plugins-release-release-jade-rqt_pose_view-0.4.2-0
+- tar:
+    local-name: rqt_publisher
+    uri: https://github.com/ros-gbp/rqt_common_plugins-release/archive/release/jade/rqt_publisher/0.3.12-0.tar.gz
+    version: rqt_common_plugins-release-release-jade-rqt_publisher-0.3.12-0
+- tar:
+    local-name: rqt_py_common
+    uri: https://github.com/ros-gbp/rqt_common_plugins-release/archive/release/jade/rqt_py_common/0.3.12-0.tar.gz
+    version: rqt_common_plugins-release-release-jade-rqt_py_common-0.3.12-0
+- tar:
+    local-name: rqt_py_console
+    uri: https://github.com/ros-gbp/rqt_common_plugins-release/archive/release/jade/rqt_py_console/0.3.12-0.tar.gz
+    version: rqt_common_plugins-release-release-jade-rqt_py_console-0.3.12-0
+- tar:
+    local-name: rqt_reconfigure
+    uri: https://github.com/ros-gbp/rqt_common_plugins-release/archive/release/jade/rqt_reconfigure/0.3.12-0.tar.gz
+    version: rqt_common_plugins-release-release-jade-rqt_reconfigure-0.3.12-0
+- tar:
+    local-name: rqt_robot_dashboard
+    uri: https://github.com/ros-gbp/rqt_robot_plugins-release/archive/release/jade/rqt_robot_dashboard/0.4.2-0.tar.gz
+    version: rqt_robot_plugins-release-release-jade-rqt_robot_dashboard-0.4.2-0
+- tar:
+    local-name: rqt_robot_monitor
+    uri: https://github.com/ros-gbp/rqt_robot_plugins-release/archive/release/jade/rqt_robot_monitor/0.4.2-0.tar.gz
+    version: rqt_robot_plugins-release-release-jade-rqt_robot_monitor-0.4.2-0
+- tar:
+    local-name: rqt_robot_plugins
+    uri: https://github.com/ros-gbp/rqt_robot_plugins-release/archive/release/jade/rqt_robot_plugins/0.4.2-0.tar.gz
+    version: rqt_robot_plugins-release-release-jade-rqt_robot_plugins-0.4.2-0
+- tar:
+    local-name: rqt_robot_steering
+    uri: https://github.com/ros-gbp/rqt_robot_plugins-release/archive/release/jade/rqt_robot_steering/0.4.2-0.tar.gz
+    version: rqt_robot_plugins-release-release-jade-rqt_robot_steering-0.4.2-0
+- tar:
+    local-name: rqt_runtime_monitor
+    uri: https://github.com/ros-gbp/rqt_robot_plugins-release/archive/release/jade/rqt_runtime_monitor/0.4.2-0.tar.gz
+    version: rqt_robot_plugins-release-release-jade-rqt_runtime_monitor-0.4.2-0
+- tar:
+    local-name: rqt_rviz
+    uri: https://github.com/ros-gbp/rqt_robot_plugins-release/archive/release/jade/rqt_rviz/0.4.2-0.tar.gz
+    version: rqt_robot_plugins-release-release-jade-rqt_rviz-0.4.2-0
+- tar:
+    local-name: rqt_service_caller
+    uri: https://github.com/ros-gbp/rqt_common_plugins-release/archive/release/jade/rqt_service_caller/0.3.12-0.tar.gz
+    version: rqt_common_plugins-release-release-jade-rqt_service_caller-0.3.12-0
+- tar:
+    local-name: rqt_shell
+    uri: https://github.com/ros-gbp/rqt_common_plugins-release/archive/release/jade/rqt_shell/0.3.12-0.tar.gz
+    version: rqt_common_plugins-release-release-jade-rqt_shell-0.3.12-0
+- tar:
+    local-name: rqt_srv
+    uri: https://github.com/ros-gbp/rqt_common_plugins-release/archive/release/jade/rqt_srv/0.3.12-0.tar.gz
+    version: rqt_common_plugins-release-release-jade-rqt_srv-0.3.12-0
+- tar:
+    local-name: rqt_tf_tree
+    uri: https://github.com/ros-gbp/rqt_robot_plugins-release/archive/release/jade/rqt_tf_tree/0.4.2-0.tar.gz
+    version: rqt_robot_plugins-release-release-jade-rqt_tf_tree-0.4.2-0
+- tar:
+    local-name: rqt_top
+    uri: https://github.com/ros-gbp/rqt_common_plugins-release/archive/release/jade/rqt_top/0.3.12-0.tar.gz
+    version: rqt_common_plugins-release-release-jade-rqt_top-0.3.12-0
+- tar:
+    local-name: rqt_topic
+    uri: https://github.com/ros-gbp/rqt_common_plugins-release/archive/release/jade/rqt_topic/0.3.12-0.tar.gz
+    version: rqt_common_plugins-release-release-jade-rqt_topic-0.3.12-0
+- tar:
+    local-name: rqt_web
+    uri: https://github.com/ros-gbp/rqt_common_plugins-release/archive/release/jade/rqt_web/0.3.12-0.tar.gz
+    version: rqt_common_plugins-release-release-jade-rqt_web-0.3.12-0
+- tar:
+    local-name: smach
+    uri: https://github.com/ros-gbp/executive_smach-release/archive/release/jade/smach/2.0.0-0.tar.gz
+    version: executive_smach-release-release-jade-smach-2.0.0-0
+- tar:
+    local-name: smach_msgs
+    uri: https://github.com/ros-gbp/executive_smach-release/archive/release/jade/smach_msgs/2.0.0-0.tar.gz
+    version: executive_smach-release-release-jade-smach_msgs-2.0.0-0
+- tar:
+    local-name: smach_ros
+    uri: https://github.com/ros-gbp/executive_smach-release/archive/release/jade/smach_ros/2.0.0-0.tar.gz
+    version: executive_smach-release-release-jade-smach_ros-2.0.0-0
+- tar:
+    local-name: stage
+    uri: https://github.com/ros-gbp/stage-release/archive/release/jade/stage/4.1.1-6.tar.gz
+    version: stage-release-release-jade-stage-4.1.1-6
+- tar:
+    local-name: stage_ros
+    uri: https://github.com/ros-gbp/stage_ros-release/archive/release/jade/stage_ros/1.7.5-0.tar.gz
+    version: stage_ros-release-release-jade-stage_ros-1.7.5-0
+- tar:
+    local-name: stereo_image_proc
+    uri: https://github.com/ros-gbp/image_pipeline-release/archive/release/jade/stereo_image_proc/1.12.15-0.tar.gz
+    version: image_pipeline-release-release-jade-stereo_image_proc-1.12.15-0
+
