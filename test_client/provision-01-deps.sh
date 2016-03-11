@@ -7,8 +7,10 @@ sudo apt-get update -q
 sudo apt-get install -qy catkin python-catkin-pkg python-rosdep python-wstool wget build-essential
 sudo apt-get install -qy ros-desktop-full-dev libros-filters-plugins-dev
 
-#rosbag
+#rosbag (bug)
 sudo apt-get install -qy libbz2-dev
+#stage (bug)
+sudo apt-get install -qy libfltk1.1-dev
 
 #sudo rosdep init
 
